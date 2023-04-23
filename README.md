@@ -11,11 +11,11 @@ Defining:
   may be the layout, how should i keep it ? what colours ?  and all that confusion {similar to preplanning}
   
 Ideate:
-  Physics and navmesh would be included. There will be one level for know but that will be quite difficult and interesting. I will try to add timelimit as well
+  Physics and navmesh would be included. There will be one level for now but that will be quite difficult and interesting. I will try to add timelimit as well
   to make it even more challenging. There are not much rules because there is no way of cheating except manipulating the code..
   
 Prototype:
-  3D texts will be there, player will be there, ofc the maze walls be there, a timer will be running on top left of screen, top view will be provided. There will
+  3D texts will be there, player will be there, ofc the maze walls will be there, a timer will be running on top left of screen, top view will be provided. There will
   only be one screen along with the alert messages about winning and losing {Simple yet Innovative}
   
 Testing:
